@@ -1,0 +1,7 @@
+1. git init
+2. git add .
+3. git commit -m "any message"
+4. git remote add origin https://github.com/paotengpian2000/property-management.git
+
+5. git remote set-url origin https://paotengpian2000:{$ACCESS TOKEN}@github.com/paotengpian2000/property-management.git
+6. git push --set-upstream origin master
