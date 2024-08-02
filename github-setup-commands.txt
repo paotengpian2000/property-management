@@ -14,4 +14,6 @@ Next Time Onwards
 3. git commit -m "some message"
 4. git push
 
-Dev Branch
+http://localhost:8080/swagger-ui/index.html
+https://docs.spring.io/spring-boot/reference/actuator/enabling.html
+http://localhost:8080/actuator
